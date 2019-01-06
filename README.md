@@ -1,5 +1,3 @@
-# Regression Machine-Learning-Models
+# Regression Models
 
-Some Regression, Classification and Clustering models  
-
-Data 
+Some Regression models
