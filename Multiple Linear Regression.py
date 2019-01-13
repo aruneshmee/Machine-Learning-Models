@@ -2,7 +2,6 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 
 startup_data = pd.read_csv('50_Startups.csv')
 X = startup_data.iloc[:,:-1].values
