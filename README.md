@@ -10,8 +10,13 @@ Regression ML models can vary from Linear Regression to polynomial and Decision 
 # Simple Linear Regression
 
 In the following example, I have taken data consisting of salaries of employee based on experience. 
-
 What exactly does the equation mean?
-
 Salary = b0 + b1 × Experience’
 b0 is the salary you get with no experience and b1 is the increase in salary per year.
+Pandas library have been use to read and train files.
+
+# Multiple Linear Regression
+
+
+
+
